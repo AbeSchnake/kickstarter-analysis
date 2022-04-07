@@ -13,6 +13,7 @@ As shown in the graph below, the number of successful Kickstarter cmpaigns in th
 ### Analysis of Outcomes Based on Goals
 As shown in the graph below, the success rate of Kickstarter campaigns in the Theater category decreases as the goal amount gets larger until the goal bracket of $30000 to $34999 is reached, where it increases until the goal bracket of $45000 to $44999, where it drops to zero, and remains below 20% at $50000 and above. It should be noted, however, that the sample sizes involved are much smaller in those brackets of larger financial goals. 
 
+![Outcomes Based on Goals](https://github.com/AbeSchnake/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 ### Challenges and Difficulties Encountered
 The biggest challenge was in getting the Outcomes Based on Goal Amount chart to display correctly. Fixing the formatting of the table data to percentage and switching the row and column in Excel's Select Data Source window fixed that problem. 
 ## Results
