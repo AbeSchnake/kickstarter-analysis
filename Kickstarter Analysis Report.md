@@ -9,7 +9,7 @@ To help Louise plan the financial goals and timing of her Kickstarter campaign b
 ### Analysis of Outcomes Based on Launch Date
 As shown in the graph below, the number of successful Kickstarter cmpaigns in the Theater category were at their greatest when started in the summer months, with the highest number of successes in May. They were least successful in the winter months, with the lowest number of successes in December. Notably, the number of successful campaigns varies a lot more by month than the number of failed campaigns.
 
-! [Outcomes Based on Launch Date](https://github.com/AbeSchnake/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+![Outcomes Based on Launch Date](https://github.com/AbeSchnake/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 ### Analysis of Outcomes Based on Goals
 As shown in the graph below, the success rate of Kickstarter campaigns in the Theater category decreases as the goal amount gets larger until the goal bracket of $30000 to $34999 is reached, where it increases until the goal bracket of $45000 to $44999, where it drops to zero, and remains below 20% at $50000 and above. It should be noted, however, that the sample sizes involved are much smaller in those brackets of larger financial goals. 
 
